@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend enthusiast focused on Vue 3 and Laravel Inertia, passionate about crafting seamless, interactive interfaces. Constantly learning and open to new tech!
+Frontend enthusiast focused on Vue 3 with a little bit knowledge about backend 🤏, passionate about crafting seamless, interactive interfaces. Constantly learning and open to new tech!
 
 
 ## 🌐 Socials:
